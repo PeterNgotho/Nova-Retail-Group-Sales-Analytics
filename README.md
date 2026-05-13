@@ -290,13 +290,12 @@ The Nova Retail Group dataset is fictional. All customer, sales, and store data 
 
 I'm a data analyst building portfolio projects in SQL, Power BI, and analytics engineering.
 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📺 YouTube: [Data with Clarence](https://youtube.com/@datawithclarence)
-- 📧 Email: you@email.com
+
+- 💼 LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/peterngotho)
+
 
 If you found this project useful, give it a ⭐ on GitHub.
 
 ---
 
-*Built as part of the Witle Academy Data Analytics Programme.*
+
